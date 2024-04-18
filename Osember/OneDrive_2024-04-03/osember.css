@@ -1,0 +1,23 @@
+body{
+    background-color: moccasin;
+    color: navy;
+}
+h1{
+    text-align: center;
+}
+.kep{
+    border: 1px;
+    border-width: 1px; 
+    border-color: black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+hr{
+    width: 400px;
+}
+table{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
